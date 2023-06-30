@@ -1,0 +1,7 @@
+
+# Ignorar la carpeta node_modules en el Back-end
+/Back-end/node_modules/
+
+# Ignorar la carpeta node_modules en el Front-end/app-ejemplo
+/Front-end/app-ejemplo/node_modules/
+/Front-end/app-ejemplo/.expo/
